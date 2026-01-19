@@ -2,3 +2,5 @@
 /**/*.session
 /**/*.sh
 
+# Temporary
+/CMakeLists.txt
